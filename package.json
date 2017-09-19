@@ -1,6 +1,6 @@
 {
-  "name": "node-polyglot",
-  "version": "2.3.0",
+  "name": "@sminpmjs/node-polyglot",
+  "version": "2.3.1",
   "description": "Give your JavaScript the ability to speak many languages.",
   "main": "lib/index.js",
   "jsnext:main": "es/index.js",
